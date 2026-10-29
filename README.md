@@ -49,6 +49,3 @@ This shows why it’s important to let the data speak, even when results don’t
 - Dataset is educational, not audited operator data.  
 - Complaint topics and resolution times are not included.  
 - Analysis shows associations, not proof of causation.  
- 
-Data Analyst | Python • SQL • Excel • Power BI  
-[LinkedIn](#) | [GitHub](#) | [Medium](#)

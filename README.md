@@ -17,11 +17,10 @@ It’s a beginner‑friendly SQL analysis that compares regions, technologies, s
 - **SQL (MySQL)**: basic queries with `SELECT`, `WHERE`, `GROUP BY`, `CASE`, etc.
 - **Dataset**: educational telecom KPI dataset from [MReza07/Telecom-KPI-Analysis-PowerBI](https://github.com/MReza07/Telecom-KPI-Analysis-PowerBI).
 - **Files included**:  
-  - `data/telecom_kpi.csv` → cleaned dataset  
-  - `01_create_table.sql` → table setup  
-  - `02_analysis_queries.sql` → analysis queries  
-  - `results/region_summary.csv` → quick result check  
-  - `README.md` → documentation  
+  - `data/telecom_kpi.csv` > cleaned dataset  
+  - `Telecom Outage Complaint Impact.sql` > analysis queries  
+  - `region_summary.csv` > quick result check  
+  - `README.md` > documentation  
 
 ## Key findings
 - Dataset: **600 site‑day records**, 37,399 downtime minutes, and 6,757 complaints.  

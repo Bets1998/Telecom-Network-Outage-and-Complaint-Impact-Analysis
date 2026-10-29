@@ -36,7 +36,7 @@ This shows why it’s important to let the data speak, even when results don’t
 2. Run the table setup script.  
 3. Import `telecom_kpi.csv` into the database.  
 4. Confirm 600 rows were loaded.  
-5. Run the queries in `02_analysis_queries.sql` one by one.  
+5. Run the queries in `Telecom Outage Complaint Impact.sql` one by one.  
 
 ## Portfolio skills demonstrated
 - Creating and loading SQL tables.  
